@@ -6,6 +6,7 @@ Unity ģērbšanas spēle.
 - [x] Ievietot attelus
 - [x] Ievietot ček boksus
 - [ ] Pievieno slideri
+- [ ] Pievieno scroll view elementu
 - [x]  Izveidodt izkritušas saraksta pogu
 - [ ]  Nodrošināt attēla izmēra maiņu ar bīdjoslu 
 - [ ]  Nodrošināt attēlas pārvietošanu ar peles palīdzību
