@@ -10,4 +10,4 @@ Unity ģērbšanas spēle.
 - [x]  Izveidodt izkritušas saraksta pogu
 - [x]  Nodrošināt attēla izmēra maiņu ar bīdjoslu 
 - [x]  Nodrošināt attēlas pārvietošanu ar peles palīdzību
-- [ ]  Pievienot audio failus
+- [x]  Pievienot audio failus
