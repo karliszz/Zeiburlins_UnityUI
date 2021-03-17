@@ -9,5 +9,5 @@ Unity ģērbšanas spēle.
 - [x] Pievieno scroll view elementu
 - [x]  Izveidodt izkritušas saraksta pogu
 - [ ]  Nodrošināt attēla izmēra maiņu ar bīdjoslu 
-- [ ]  Nodrošināt attēlas pārvietošanu ar peles palīdzību
+- [x]  Nodrošināt attēlas pārvietošanu ar peles palīdzību
 - [ ]  Pievienot audio failus
