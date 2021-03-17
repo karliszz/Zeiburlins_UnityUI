@@ -19,7 +19,7 @@ public class VardaParadisana : MonoBehaviour
     {
         teksts = ievadesLauks.GetComponent<Text>().text;
         teksts1 = ievadesLauks2.GetComponent<Text>().text;
-        tekstaAttelosana.GetComponent<Text>().text = teksts+" ir "+teksts1+" gadus vecs!";
+        tekstaAttelosana.GetComponent<Text>().text ="Sveiki "+teksts+" jums ir "+teksts1+" gadu!";
     }
 
 }
