@@ -5,7 +5,7 @@ Unity ģērbšanas spēle.
 - [x] Ievietot teksta logu, teksta ievades lauku un pogu
 - [x] Ievietot attelus
 - [x] Ievietot ček boksus
-- [ ] Nodrosināt radio pogas darbību
+- [ ] Pievieno slideri
 - [x]  Izveidodt izkritušas saraksta pogu
 - [ ]  Nodrošināt attēla izmēra maiņu ar bīdjoslu 
 - [ ]  Nodrošināt attēlas pārvietošanu ar peles palīdzību
