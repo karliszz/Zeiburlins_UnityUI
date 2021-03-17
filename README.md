@@ -4,7 +4,7 @@ Unity ģērbšanas spēle.
 - [x] Nodrošināt projekta versionešanu
 - [x] Ievietot teksta logu, teksta ievades lauku un pogu
 - [x] Ievietot attelus
-- [ ] Ievietot ček boksus
+- [x] Ievietot ček boksus
 - [ ] Nodrosināt radio pogas darbību
 - [x]  Izveidodt izkritušas saraksta pogu
 - [ ]  Nodrošināt attēla izmēra maiņu ar bīdjoslu 
