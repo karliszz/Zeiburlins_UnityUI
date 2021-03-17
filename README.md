@@ -3,7 +3,7 @@ Unity ģērbšanas spēle.
 ### Veicamo darbu saraksts
 - [x] Nodrošināt projekta versionešanu
 - [x] Ievietot teksta logu, teksta ievades lauku un pogu
-- [ ] Ievietot attelus
+- [x] Ievietot attelus
 - [ ] Ievietot ček boksus
 - [ ] Nodrosināt radio pogas darbību
 - [ ]  Izveidodt izkritušas saraksta pogu
